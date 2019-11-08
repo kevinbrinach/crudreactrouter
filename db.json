@@ -1,0 +1,34 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "150",
+      "nombrePlatillo": "Cheesecake",
+      "categoria": "bebida",
+      "id": 1
+    },
+    {
+      "precioPlatillo": "300",
+      "nombrePlatillo": "Rib Eye 300g",
+      "categoria": "cortes",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Ensalada Cesar",
+      "precioPlatillo": "100",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "Coca",
+      "precioPlatillo": "100",
+      "categoria": "bebida",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "Frutillas con Crema",
+      "precioPlatillo": "200",
+      "categoria": "postre",
+      "id": 5
+    }
+  ]
+}
